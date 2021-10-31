@@ -1,3 +1,5 @@
+## 💜 Olá, meu nome é <strong>{Gabriel de Sousa Moreira}!</strong>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ![](https://komarev.com/ghpvc/?username=premiiado&color=006bed)
