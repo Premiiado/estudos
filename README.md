@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=premiiado&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções incríveis.
 - 🎓 &nbsp; Estudei **Illustação, edição de imagens e videos e criação de jogos na** no <a href="saga.art.br">SAGA</a>.
