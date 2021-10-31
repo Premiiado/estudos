@@ -1,13 +1,22 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Gosto de criar ótimos produtos e ajudar outras pessoas a fazer o mesmo.
+![](https://komarev.com/ghpvc/?username=premiiado&color=006bed)
+
+<h3> :woman: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudei **Illustação, edição de imagens e videos e criação de jogos na** no <a href="saga.art.br">SAGA</a>.
+- 💼 &nbsp; Trabalhando como **Marketing, Design e Manutenções.** na <a href="https://esthoting.com.br">EstHosting</a>
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript Avançado**.
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **Premiiado** {
- val name = "Gabriel de Sousa Moreira"
+object **Premiiado </Gabriel de Sousa Moreira>** {
+ val iLove = "EU AMO"
  val acknowledgements = "Marketing, Design, Programação."
  
  val primarySkillset = "ALGUMAS HABILIDADES"
