@@ -7,7 +7,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções incríveis.
-- 🎓 &nbsp; Estudei **Illustação, edição de imagens e videos e criação de jogos na** <a href="saga.art.br">SAGA</a>.
+- 🎓 &nbsp; Estudei **Ilustração, edição de imagens e videos e criação de jogos na** <a href="saga.art.br">SAGA</a>.
 - 💼 &nbsp; Trabalhando como **Marketing, Design e Manutenções.** na <a href="https://esthoting.com.br">EstHosting</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript Avançado**.
 
