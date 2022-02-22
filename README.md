@@ -8,9 +8,76 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções incríveis.
 - 🎓 &nbsp; Estudei **Ilustração, edição de imagens e videos e criação de jogos na** <a href="https://saga.art.br">SAGA</a>.
-- 💼 &nbsp; Trabalhando como **Marketing, Design e Manutenções.** na <a href="https://esthoting.com.br">EstHosting</a>
+- 💼 &nbsp; Trabalhando como **Marketing, Design e Manutenções** na <a href="https://esthoting.com.br">EstHosting</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript Avançado**.
 
+</span></li></ol></nav></div> <div class="curriculum__content" data-v-6068afaf><h1 class="z-title z-title--size-large" data-v-6068afaf>
+Análise e Desenvolvimento de Sistemas
+</h1> 
+Atualmente estou estudando para concursar Análise e Desenvolvimento de Sistemas, com isso irei aprimorar meus conhecimentos sobre programação e melhorar para o atual mercado de trabalho.<h1>
+A grade curricular que irei frequentar está abaixo:
+</h1>
+</p> <div class="curriculum__disciplines-list-container" data-v-6068afaf><ul class="curriculum__disciplines-list" data-v-6068afaf><li class="curriculum__disciplines-item" data-v-6068afaf>
+Auditoria de Sistemas
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Banco de Dados Nosql
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Cenários de Tecnologia da Informação
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Eletiva
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Eletiva
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Engenharia de Usabilidade e Interfaces
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Estrutura de Dados
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Fundamentos de Redes de Computadores
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Gerência de Projetos de TI
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Gestão de Serviços para TI
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Implementação de Banco de Dados
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Inovação Tecnológica e Empreendedorismo
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Introdução a Programação
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Linguagem Procedural para Banco de Dados
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Língua Portuguesa
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Matemática Computacional
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Modelagem de Sistemas
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Negócios Eletrônicos
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Organização e Arquitetura de Computadores
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Programação I
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Programação II
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Programação III
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Programação para Dispositivos Móveis
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Proj. Int. de Análise e Desenv. de Sistemas
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Projeto de Banco de Dados
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Qualidade e Teste de Software
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Segurança da Informação
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Sistemas Distribuídos
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Tecnologia para Internet I
+</li><li class="curriculum__disciplines-item" data-v-6068afaf>
+Tecnologias para Internet II
+</li></ul></div>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Passa tempo
 
