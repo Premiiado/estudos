@@ -11,6 +11,10 @@
 - 💼 &nbsp; Trabalhando como **Técnico** na <a href="https://esthosting.com.br">EstHosting</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript Avançado**.
 
+- 💼 &nbsp; Desenvolvedor da MP-API - PRODUCT **PRIVADA** <a href="https://codepen.io/pen?template=RwqMWKK
+">MP-API</a>
+
+
 ```kotlin
 object **Premiiado </Gabriel de Sousa Moreira>** {
  val iLove = "EU AMO"
