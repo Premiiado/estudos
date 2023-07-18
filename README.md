@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Gabriel de Sousa Moreira}!</strong>
+ ## 💜 Olá, meu nome é <strong>{Gabriel de Sousa Moreira}!</strong>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -11,8 +11,8 @@
 - 💼 &nbsp; Trabalhando como **Técnico** na <a href="https://esthosting.com.br">EstHosting</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript Avançado**.
 
-- 💼 &nbsp; Desenvolvedor da MP-API - PRODUCT **PRIVADA** <a href="https://codepen.io/pen?template=RwqMWKK
-">MP-API</a>
+- </> &nbsp; Desenvolvedor da ML-API - PRODUCT **PRIVADA** <a href="https://codepen.io/pen?template=RwqMWKK
+">ML-API v1.0</a> obs* **NOVA VERSÃO 2.5**
 
 
 ```kotlin
