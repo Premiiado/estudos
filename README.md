@@ -1,32 +1,31 @@
- ## 💜 Olá, meu nome é <strong>{Gabriel de Sousa Moreira}!</strong>
+ ## 💜 Olá, meu nome é <strong><\Gabriel de Sousa Moreira>!</strong> ![](https://komarev.com/ghpvc/?username=premiiado&color=006bed)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![](https://komarev.com/ghpvc/?username=premiiado&color=006bed)
 
-<h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções incríveis.
-- 🎓 &nbsp; Estudei **Ilustração, edição de imagens, videos e criação de jogos na** <a href="https://saga.art.br">SAGA</a>.
-- 💼 &nbsp; Trabalhando como **Técnico** na <a href="https://esthosting.com.br">EstHosting</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript Avançado**.
+## Resumo Profissional
 
-- </> &nbsp; Desenvolvedor da ML-API - PRODUCT **PRIVADA** <a href="https://codepen.io/pen?template=RwqMWKK
-">ML-API v1.0</a> obs* **NOVA VERSÃO 2.5**
+Sou um desenvolvedor web e designer apaixonado por criar experiências digitais incríveis. Com 2 anos de experiência na indústria, tenho habilidades sólidas em design de interface, desenvolvimento front-end e back-end. Sou apaixonado por encontrar soluções inovadoras para desafios técnicos e criar interfaces bonitas e intuitivas. Combinando criatividade com habilidades técnicas, tenho a capacidade de transformar ideias em projetos funcionais, eficientes e visualmente atraentes.
 
+<h3> :man: Sobre mim </h3>
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções incríveis.
+- 🎓 Estudei **Ilustração, edição de imagens, vídeos e criação de jogos na** [SAGA](https://saga.art.br).
+- 💼 Trabalhando como **Técnico** na [EstHosting](https://esthosting.com.br).
+- 🌱 Aprendendo mais sobre **JavaScript Avançado**.
+
+- </> Desenvolvedor da ML-API - PRODUCT **PRIVADA** [ML-API v1.0](https://codepen.io/pen?template=RwqMWKK) obs* **NOVA VERSÃO 2.5**
 
 ```kotlin
-object **Premiiado </Gabriel de Sousa Moreira>** {
+object Premiiado {
  val iLove = "EU AMO"
  val acknowledgements = "Marketing, Design, Programação."
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf( "JavaScript", "HTML", "CSS") 
-
 }
 ```
-
-----
 
 ## 🚀 Minhas habilidades e ferramentas
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -43,6 +42,38 @@ object **Premiiado </Gabriel de Sousa Moreira>** {
 
 ---
 
+## Habilidades Técnicas
+
+- **Linguagens de Programação:** HTML, CSS, JavaScript, Python, PHP
+- **Frameworks e Bibliotecas:** React, Vue.js, Bootstrap, jQuery
+- **Design de Interface:** Adobe XD, Sketch, Figma, Photoshop
+- **Desenvolvimento Back-end:** Node.js
+- **Banco de Dados:** MySQL, MongoDB, SQLite
+- **Versionamento:** Git, GitHub
+- **SEO e Performance Web:** Otimização de velocidade, melhores práticas de SEO
+- **Outras Habilidades:** UI/UX Design e Testes Responsivos 
+
+## Educação
+
+- DESENVOLVIMENTO WEB (PHP, HTML,CSS E MYSQL) - [UDEMY]
+- CIENCIAS AEROESPACIAIS (UM VOO SOBRE O UNIVERSO DOS FOGUETES: TEORIA E PRATICA) - [AEB - AGENCIA ESPACIAL BRASILEIRA]
+- CENÁRIO DE GAMES (UNREAL) - [SAGA]
+- ADOBE ILLUSTRATOR (ARTE VETORIAL) - [SAGA]
+- ADOBE PHOTOSHOP (EDIÇÃO E COMPOSIÇÃO DE IMAGEM) - [SAGA]
+- PHOTOSHOP ADOBE (PINTURA DIGITAL) - [SAGA]
+- AUTODESK MAYA BÁSICO (CENÁRIOS) - [SAGA]
+- AUTODESK MAYA (ANIMAÇÃO DE PERSONAGEM) - [SAGA]
+- ADOBE PREMIERE (EDIÇÃO ÁUDIO VISUAL) - [SAGA]
+- ADOBE AFTER EFFECTS (COMPOSIÇÃO DE VIDEOS E EFEITOS) - [SAGA]
+- ADOBE ANIMATE (ANIMAÇÃO GAME 2D1) - [SAGA]
+- ADOBE ANIMATE (ANIMAÇÃO GAME 2D2) - [SAGA]
+
+## Projetos Pessoais
+
+**[MERCADOLIVRE API]** - [Breve descrição do projeto]
+
+- [Tecnologias utilizadas]
+
 ## ⭐ Informações sobre minha conta GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premiiado&theme=dark&show_icons=true)
@@ -53,12 +84,5 @@ object **Premiiado </Gabriel de Sousa Moreira>** {
 [instagram]: https://www.instagram.com/gabdaleste/
 
 <br>
-
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
 
 '-'
