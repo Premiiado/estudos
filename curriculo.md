@@ -72,13 +72,10 @@ Sou um desenvolvedor web e designer apaixonado por criar experiências digitais 
 
 **[MERCADOLIVRE API]** - [Breve descrição do projeto]
 
-- [Tecnologias utilizadas]
-- [Link para o repositório no GitHub ou para o projeto online]
+- Tecnologias utilizadas
 
-**[Nome do Projeto]** - [Breve descrição do projeto]
-
-- [Tecnologias utilizadas]
-- [Link para o repositório no GitHub ou para o projeto online]
+  
+- [MERCADOLIVRE-API](https://mercadolivre-api.vercel.app/)
 
 ## Interesses
 
