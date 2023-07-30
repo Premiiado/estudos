@@ -30,7 +30,7 @@ Sou um desenvolvedor web e designer apaixonado por criar experiências digitais 
 - Implementação de estratégias de SEO para aumentar a visibilidade do site nos motores de busca.
 - Integração de APIs de terceiros para melhorar a funcionalidade dos sites.
 
-**Desenvolvedor Front-end **
+**Desenvolvedor Front-end**
 
 - Desenvolvimento de interfaces de usuário altamente interativas usando tecnologias web modernas.
 - Implementação de designs de interface criados por designers em projetos reais.
