@@ -15,7 +15,7 @@ Sou um desenvolvedor web e designer apaixonado por criar experiências digitais 
 - 🎓 Estudei **Ilustração, edição de imagens, vídeos e criação de jogos na** [SAGA](https://saga.art.br).
 - 💼 Trabalhando como **Técnico** na [EstHosting](https://esthosting.com.br).
 - 🌱 Aprendendo mais sobre **JavaScript Avançado**.
-- </> Desenvolvedor da ML-API - PRODUCT **PRIVADA** [ML-API v1.0]() obs* **NOVA VERSÃO 2.5**
+- </> Desenvolvedor da ML-API - PRODUCT **PRIVADA** [ML-API v1.9](https://mercadolivre-api.vercel.app/) obs* **NOVA VERSÃO 2.5**
 
 ```kotlin
 object Premiiado {
