@@ -47,6 +47,12 @@ Sou um desenvolvedor web e designer apaixonado por criar experiências digitais 
 
 **CENÁRIO DE GAMES (UNREAL) - [SAGA]**
 
+**INTRODUÇÃO DE PYTHON - [UDEMY]**
+
+**INTRODUÇÃO DE HTML - [UDEMY]**
+
+**INTRODUÇÃO DE CSS - [UDEMY]**
+
 **WORKSHOP DE GAMES (UNITY) - [SAGA]**
 
 **ADOBE ILLUSTRATOR (ARTE VETORIAL) - [SAGA]**
