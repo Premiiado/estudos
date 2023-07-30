@@ -2,9 +2,9 @@
 
 ## Informações de Contato
 
-**Nome:** [Gabriel de Sousa Moreria]
+**Nome:** Gabriel de Sousa Moreria
 
-**E-mail:** [gabriel@esthosting.com.br]
+**E-mail:** gabriel@esthosting.com.br
 
 **Idade:** 19 anos
 
