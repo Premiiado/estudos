@@ -55,18 +55,18 @@ object Premiiado {
 
 ## Educação
 
-- DESENVOLVIMENTO WEB (PHP, HTML,CSS E MYSQL) - [UDEMY]
-- CIENCIAS AEROESPACIAIS (UM VOO SOBRE O UNIVERSO DOS FOGUETES: TEORIA E PRATICA) - [AEB - AGENCIA ESPACIAL BRASILEIRA]
-- CENÁRIO DE GAMES (UNREAL) - [SAGA]
-- ADOBE ILLUSTRATOR (ARTE VETORIAL) - [SAGA]
-- ADOBE PHOTOSHOP (EDIÇÃO E COMPOSIÇÃO DE IMAGEM) - [SAGA]
-- PHOTOSHOP ADOBE (PINTURA DIGITAL) - [SAGA]
-- AUTODESK MAYA BÁSICO (CENÁRIOS) - [SAGA]
-- AUTODESK MAYA (ANIMAÇÃO DE PERSONAGEM) - [SAGA]
-- ADOBE PREMIERE (EDIÇÃO ÁUDIO VISUAL) - [SAGA]
-- ADOBE AFTER EFFECTS (COMPOSIÇÃO DE VIDEOS E EFEITOS) - [SAGA]
-- ADOBE ANIMATE (ANIMAÇÃO GAME 2D1) - [SAGA]
-- ADOBE ANIMATE (ANIMAÇÃO GAME 2D2) - [SAGA]
+- DESENVOLVIMENTO WEB (PHP, HTML,CSS E MYSQL) - [UDEMY](https://udemy-certificate.s3.amazonaws.com/image/UC-95c0f13c-b7ad-4e50-965b-08508a66f2b8.jpg)
+- CIENCIAS AEROESPACIAIS (UM VOO SOBRE O UNIVERSO DOS FOGUETES: TEORIA E PRATICA) - [AEB - AGENCIA ESPACIAL BRASILEIRA](https://github.com/Premiiado/Premiiado/blob/main/Certificado%20Agencia%20Espacial%20brasileira.pdf)
+- CENÁRIO DE GAMES (UNREAL) - [SAGA](https://github.com/Premiiado/Premiiado/blob/main/SAGA%20Cenario%20de%20games.jpeg)
+- ADOBE ILLUSTRATOR (ARTE VETORIAL) - [SAGA](https://github.com/Premiiado/Premiiado/blob/main/SAGA%20Designer.jpeg)
+- ADOBE PHOTOSHOP (EDIÇÃO E COMPOSIÇÃO DE IMAGEM) - [SAGA](https://github.com/Premiiado/Premiiado/blob/main/SAGA%20Designer.jpeg)
+- PHOTOSHOP ADOBE (PINTURA DIGITAL) - [SAGA](https://github.com/Premiiado/Premiiado/blob/main/SAGA%20Designer.jpeg)
+- AUTODESK MAYA BÁSICO (CENÁRIOS) - [SAGA](https://github.com/Premiiado/Premiiado/blob/main/SAGA%20Designer.jpeg)
+- AUTODESK MAYA (ANIMAÇÃO DE PERSONAGEM) - [SAGA](https://github.com/Premiiado/Premiiado/blob/main/SAGA%20Designer.jpeg)
+- ADOBE PREMIERE (EDIÇÃO ÁUDIO VISUAL) - [SAGA](https://github.com/Premiiado/Premiiado/blob/main/SAGA%20Designer.jpeg)
+- ADOBE AFTER EFFECTS (COMPOSIÇÃO DE VIDEOS E EFEITOS) - [SAGA](https://github.com/Premiiado/Premiiado/blob/main/SAGA%20Designer.jpeg)
+- ADOBE ANIMATE (ANIMAÇÃO GAME 2D1) - [SAGA](https://github.com/Premiiado/Premiiado/blob/main/SAGA%20Designer.jpeg)
+- ADOBE ANIMATE (ANIMAÇÃO GAME 2D2) - [SAGA](https://github.com/Premiiado/Premiiado/blob/main/SAGA%20Designer.jpeg)
 
 ## Projetos Pessoais
 
