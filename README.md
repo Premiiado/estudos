@@ -11,10 +11,10 @@ Sou um desenvolvedor web e designer apaixonado por criar experiências digitais 
 <h3> :man: Sobre mim </h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções incríveis.
+- 🎓 Verificar meus [certificados](https://github.com/premiiado/premiiado).
 - 🎓 Estudei **Ilustração, edição de imagens, vídeos e criação de jogos na** [SAGA](https://saga.art.br).
 - 💼 Trabalhando como **Técnico** na [EstHosting](https://esthosting.com.br).
 - 🌱 Aprendendo mais sobre **JavaScript Avançado**.
-
 - </> Desenvolvedor da ML-API - PRODUCT **PRIVADA** [ML-API v1.0](https://codepen.io/pen?template=RwqMWKK) obs* **NOVA VERSÃO 2.5**
 
 ```kotlin
