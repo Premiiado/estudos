@@ -11,7 +11,7 @@ Sou um desenvolvedor web e designer apaixonado por criar experiências digitais 
 <h3> :man: Sobre mim </h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções incríveis.
-- 🎓 Verificar meus [certificados](https://github.com/premiiado/estudos).
+- 🎓 Verificar meus [certificados](https://github.com/premiiado/premiiado).
 - 🎓 Estudei **Ilustração, edição de imagens, vídeos e criação de jogos na** [SAGA](https://saga.art.br).
 - 💼 Trabalhando como **Técnico** na [EstHosting](https://esthosting.com.br).
 - 🌱 Aprendendo mais sobre **JavaScript Avançado**.
