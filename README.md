@@ -6,7 +6,7 @@
 
 ## Resumo Profissional
 
-Sou um desenvolvedor web e designer apaixonado por criar experiências digitais incríveis. Com 2 anos de experiência na indústria, tenho habilidades sólidas em design de interface, desenvolvimento front-end e back-end. Sou apaixonado por encontrar soluções inovadoras para desafios técnicos e criar interfaces bonitas e intuitivas. Combinando criatividade com habilidades técnicas, tenho a capacidade de transformar ideias em projetos funcionais, eficientes e visualmente atraentes.
+Sou um desenvolvedor web e designer apaixonado por criar experiências digitais incríveis. Com 2 anos de experiência na indústria, tenho habilidades em design de interface e desenvolvimento front-end. Sou apaixonado por encontrar soluções inovadoras para desafios técnicos e criar interfaces bonitas e intuitivas. Combinando criatividade com habilidades técnicas, tenho a capacidade de transformar ideias em projetos funcionais, eficientes e visualmente atraentes.
 
 <h3> :man: Sobre mim </h3>
 
